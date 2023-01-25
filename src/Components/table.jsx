@@ -5,15 +5,15 @@ function Table(){
   // let arr=useContext(ContextX)
 
   let arr=[{Name:'Arjun thakur',Num:23,Course:'MERN',Batch:'EA18'},
-          {Name:'Arjun thakur',Num:23,Course:'MERN',Batch:'EA18'},
-          {Name:'Arjun thakur',Num:23,Course:'MERN',Batch:'EA18'},
-          {Name:'Arjun thakur',Num:23,Course:'MERN',Batch:'EA18'},
-          {Name:'Arjun thakur',Num:23,Course:'MERN',Batch:'EA18'},
-          {Name:'Arjun thakur',Num:23,Course:'MERN',Batch:'EA18'},
-          {Name:'Arjun thakur',Num:23,Course:'MERN',Batch:'EA18'},
-          {Name:'Arjun thakur',Num:23,Course:'MERN',Batch:'EA18'},
-          {Name:'Arjun thakur',Num:23,Course:'MERN',Batch:'EA18'},
-          {Name:'Arjun thakur',Num:23,Course:'MERN',Batch:'EA18'}
+          {Name:'Shivam thakur',Num:24,Course:'MEAN',Batch:'EA18'},
+          {Name:'Pradeep Yadav',Num:22,Course:'Django',Batch:'EA18'},
+          {Name:'Kaushal Yadav',Num:21,Course:'MERN',Batch:'EA18'},
+          {Name:'Mohan Yadav',Num:22,Course:'Django',Batch:'EA18'},
+          {Name:'Shivam Rajput',Num:22,Course:'MEAN',Batch:'EA18'},
+          {Name:'Krishna Rajput',Num:24,Course:'MERN',Batch:'EA18'},
+          {Name:'Shiva Sharma',Num:25,Course:'Django',Batch:'EA18'},
+          {Name:'Neeraj Sharma',Num:23,Course:'Django',Batch:'EA18'},
+          {Name:'Aniket Rajput',Num:25,Course:'MERN',Batch:'EA18'}
         ]
 
     return (

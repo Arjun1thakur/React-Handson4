@@ -23,7 +23,7 @@ function Update(){
                 </div>
                 <div className="BtnPlace e">
                     <input type="reset" value="Reset" className='btn'/>
-                    <input type="submit" onClick={Update}  className='btn'/>
+                    <input type="submit" onClick={Update} value='Update'  className='btn'/>
                 </div>
             </div>
 
