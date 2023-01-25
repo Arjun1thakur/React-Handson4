@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom"
-import { ContextX } from '../Main'
-import { useContext } from 'react'
+// import { ContextX } from '../Main'
+// import { useContext } from 'react'
 function Table(){
   // let arr=useContext(ContextX)
 
